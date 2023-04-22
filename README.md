@@ -1,1 +1,3 @@
 # Face-Recognition-Imagine-Cup
+# PLS DOWNLOAD FACE RECOGNITION MODULE USING THE FOLLOWING COMMAND BEFORE RUNNING THE SCRIPT
+    pip install face-recognition
